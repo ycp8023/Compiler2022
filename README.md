@@ -1,6 +1,6 @@
 # Compiler2022
 
-Writing rubbish compiler in BUAA
+## Writing rubbish compiler in BUAA
 
 
 留念，参考就算了
