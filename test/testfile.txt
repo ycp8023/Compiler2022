@@ -1,0 +1,6 @@
+int main() {
+    int n = 2;
+    const int m=n;
+    printf("%d",m);
+    return 0;
+}
